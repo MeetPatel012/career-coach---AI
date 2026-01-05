@@ -37,9 +37,9 @@ const Header = async () => {
           <Image
             src="/logo.png"
             alt="Logo"
-            width={200}
+            width={100}
             height={50}
-            className="h-12 py-1 w-auto object-contain"
+            className=" py-1  object-contain"
           />
         </Link>
         <div className="flex items-center space-x-2 md:space-x-4">
